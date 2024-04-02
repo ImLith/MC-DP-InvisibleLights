@@ -1,12 +1,12 @@
 {
   "type": "crafting_shaped",
-  "pattern": ["_%_", "_#_", "_%_"],
+  "pattern": ["###", "#%#", "___"],
   "key": {
     "#": {
-      "item": "minecraft:lantern"
+      "item": "minecraft:glass_pane"
     },
     "_": {
-      "item": "minecraft:glass_pane"
+      "item": "minecraft:copper_ingot"
     },
     "%": {
       "item": "minecraft:glow_berries"
